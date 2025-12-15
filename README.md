@@ -1,2 +1,1 @@
-# proyectofinal3
-proyecto final pagina web
+Proyecto final de pagina web, usando la estructura semantica del html , mejorandola con css y javascript y organizandola con la etiqueta header main y footer

@@ -1,0 +1,86 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+.todo{
+    margin: 50px; 
+    border-radius: 8px;
+    padding-left: 1px;
+    padding-right: 1px;
+
+}
+
+.fondo{
+    background-color: rgba(255, 228, 196, 0.176);
+
+}
+
+.inicio {
+    text-align: center;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid rgb(113, 113, 225);
+    border-radius: 8px;
+    width: 300px;
+    margin: auto;
+    font-style: italic;
+    background-color: #c7cfe5;
+    color: whitesmoke;
+    padding: 3px;
+}
+
+
+
+
+.form-container1{
+    background-color: rgba(30, 144, 95, 0.382);
+    border: solid 3px rebeccapurple;
+    border-radius: 8px;
+    font-size: 36px;
+    color: #c7e5cf;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.btn-ingresar {
+  margin-bottom: 5px;
+  padding: 8px;
+  background-color: #1845cb;
+  color: #c7cfe5;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+.btn-ingresar:hover {
+  background-color: #0389a0;
+}
+
+input[type=email] {
+  text-align: center;
+  color: rgb(229, 158, 64);
+  margin-bottom: 3px;
+  border: 2px solid darkblue ;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input[type=password] {
+  text-align: center;
+  color: rgb(229, 158, 64);
+  margin-bottom: 3px;
+  border: 2px solid darkblue ;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.login1{
+    font-size: large;
+    padding: 3px;
+    margin: 4px;
+}
